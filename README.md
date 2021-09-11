@@ -6,7 +6,9 @@ Database Mysql
 codeigniter crud, login, register, edit profile
 
 note:
-mohon maaf aplikasi ini belum selesai karena keterbatasan waktu
+-karena saya pakai wamp bukan xampp, mohon kosongkan base url di ciprofile\application\config\config.php
+atau ubah menjadi localhost
+-mohon maaf aplikasi ini belum selesai karena keterbatasan waktu
 
 ada 3 user
 - Administrator
